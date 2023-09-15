@@ -1,0 +1,38 @@
+
+.nav-item {
+    
+    display: inline;
+    display: inline-block;
+    width: 100px;
+    margin-left:800px;
+    margin-bottom: 50px;
+   
+}
+.nav-item-2 {
+    display: inline;
+    display: inline-block;
+    width: 100px;
+    
+    
+   
+}
+.nav-item-3 {
+    display: inline;
+    display: inline-block;
+    width: 100px;
+    
+    
+   
+}
+.index.html {
+    margin: 100px;
+    
+}
+h1 {
+    width: 100 ;
+   margin-left: 20px;
+   color: blue;
+}
+
+
+
